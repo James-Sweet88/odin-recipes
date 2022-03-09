@@ -1,1 +1,2 @@
 # odin-recipes
+This project is a basic website designed to show off basic HTML code, such as our boilerplate HTML, headings, links, paragraphs, and lists. It is also good practice it git commands and GitHub.
